@@ -9,5 +9,3 @@ used_letters = set()
 print (word_letters)
 
 
-#main game loop
-def play_hangman():
