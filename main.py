@@ -1,7 +1,7 @@
 import random
 
 #create a list of words
-hangman_words = ['whizzing', 'fishhook', 'beekeper', 'rhythm', 'stronghold']
+hangman_words = ['quorum', 'haphazard', 'strenghts', 'icebox', 'bookworm']
 
 def get_random_word():
     #choose a random word from the list
